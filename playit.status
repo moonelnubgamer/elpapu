@@ -1,4148 +1,1411 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721166935054 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721188374311 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166938136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188377415 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166941191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188380461 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166944234 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188383616 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166947317 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188386664 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166950353 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188389720 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166953424 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188392769 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166956485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188395832 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166959550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188398887 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166962627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188401959 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166965667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188405002 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166968719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188408059 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166971776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188411123 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166974822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188414163 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166977870 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188417241 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166980919 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188420315 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166984013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188423361 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166987048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188426512 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166990178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188429569 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166993249 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188432635 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166996319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188435705 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721166999406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188438771 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167002454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188441820 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167005547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188444871 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167008611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188447945 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167011646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188451001 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167014685 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188454154 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167017738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188457223 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167020803 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188460277 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167023905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188463310 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167026962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188466430 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167030467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188469478 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167033532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188472521 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167036596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188475570 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167039671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188478627 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167042753 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188481695 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167045856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188484763 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167048938 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188487851 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167052022 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188490902 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167055103 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188493952 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167058201 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188497017 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167061281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188500119 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167064346 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188503174 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167067403 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188506219 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167070460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188509314 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167073517 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188512367 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167076613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188515418 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167079665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188518468 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167082713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188521582 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167085778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188524628 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167088830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188527665 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167091876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188530705 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167095117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188533748 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167098276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188536802 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167101338 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188539847 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167104433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188542897 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167107477 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188545928 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167110534 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188548989 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167113589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188552037 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167116631 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188555090 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167119723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188558147 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167122803 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188561232 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167125855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188564287 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167128971 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188567452 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167132051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188570539 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167135084 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188573606 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167138163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188576661 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167141212 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188579709 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167144305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188582744 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167147421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188585784 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167150459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188588858 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167153517 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188591894 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167156617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188594938 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167159674 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188598053 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167162728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188601121 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167165785 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188604173 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167168828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188607225 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167171881 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188610308 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167174950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188613370 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167178002 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188616431 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167181084 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188619498 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167184135 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188622547 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167187258 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188625635 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167190340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188628689 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167193466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188631777 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167196518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188634875 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167199570 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188637995 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167202678 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188641033 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167205875 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188644069 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167209077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188647128 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167212441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188650223 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167215677 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188653268 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167219230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188656329 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167222284 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188659364 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167225382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188662441 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167228599 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188665481 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167231650 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188668513 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167234745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188671552 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167237801 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188674582 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167240879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188677646 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167244068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188680833 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167247714 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188683951 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167250781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188687027 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167253861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188690077 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167256952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188693128 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167260213 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188696200 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167263268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188699264 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167266383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188702320 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167269489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188705395 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167272538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188708436 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167275603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188711548 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167278706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188714610 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167281744 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188717662 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167284787 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188720707 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167287849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188723776 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167290904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188726838 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167293952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188729895 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167296996 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188732959 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167300134 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188735994 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167303187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188739092 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167306261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188742200 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167309341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188745236 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167312383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188748278 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167315447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188751340 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167318499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188754409 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167321556 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188757470 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167324623 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188760526 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167327698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188763562 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167330767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188766610 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167333876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188769650 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167336919 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188772742 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167339970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188775824 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167343014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188778871 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167346062 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188781911 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167349115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188784951 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167352168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188788004 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167355210 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188791054 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167358252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188794164 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167361291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188797230 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167364404 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188800296 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167367467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188803412 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167370624 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188806470 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167373676 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188809521 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167376769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188812620 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167379934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188815678 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167382993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188818743 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167386039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188821807 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167389126 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188825156 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167392288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188828430 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167395376 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188831492 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167398445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188834546 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167401481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188837608 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167404540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188840673 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167407630 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188843753 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167410721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188847459 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167413819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188850516 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167416958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188853567 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167420004 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188856622 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167423039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188859677 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167426079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188862819 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167429132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188866024 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167432185 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188869082 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167435269 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188872164 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167438368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188875274 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167441422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188878328 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167444561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188881370 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167447628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188884405 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167450682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188887446 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167453733 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188890519 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167456779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188893594 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167459849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188896661 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167462972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188899732 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167466051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188902785 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167469098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188905832 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167472165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188908874 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167475219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188911957 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167478273 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188915018 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167481321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188918057 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167484370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188921146 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167487484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188924230 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167490521 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188927312 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167493622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188930355 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167496661 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188933399 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167499729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188936449 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167503040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188939579 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167506132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188942638 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167509168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188945678 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167512347 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188948720 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167515378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188951752 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167518444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188954792 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167521476 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188957868 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167524529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188960965 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167527628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188964032 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167530673 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188967071 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167533783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188970147 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167536852 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188973187 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167539928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188976230 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167542978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188979290 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167546041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188982369 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167549110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188985486 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167552148 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188988544 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
 solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167555238 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167558318 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167561381 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167564442 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167567499 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167570550 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167573593 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167576640 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167579708 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167582832 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167585910 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167588958 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167592023 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167595081 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167598216 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167601266 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167604340 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167607391 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167610429 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167613479 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167616527 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167619577 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167622723 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167625770 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167628823 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167631875 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167634929 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167637964 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167641021 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167644093 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167647185 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167650272 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167653339 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167656404 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167659486 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167662538 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167665574 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167668742 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167671808 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167674879 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167677945 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167681074 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167684112 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167687147 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167690194 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167693307 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167696407 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167699474 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167702523 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167705569 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167708611 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167711661 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167714798 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167717868 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167720990 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167724058 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167727106 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167730188 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167733266 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167736322 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167739407 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167743080 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167746148 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167749219 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167752269 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167755323 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167758391 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167761439 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167764786 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167767855 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167770957 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167774014 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167777070 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167780121 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167783231 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167786297 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167789363 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167792465 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167795516 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167798621 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167801742 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167804800 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167807851 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167810947 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167814061 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167817146 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167820179 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167823214 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167826274 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167829343 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167832406 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167835485 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167838555 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167841608 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167844657 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167847711 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167850774 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167853859 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167856966 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167860028 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167863165 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167866222 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167869314 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167872380 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167875430 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167878483 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167881542 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167884642 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167887683 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167890722 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167893781 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167896820 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167899880 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167902962 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167906043 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167909129 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167912169 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167915230 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167918321 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167921372 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167924445 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167927536 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167930880 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167933954 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167937002 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167940070 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167943124 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167946186 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167950081 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167953157 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167956291 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167959380 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167962434 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167965481 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167968539 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167971599 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167974678 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167977739 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167980853 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167983922 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167986991 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167990039 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167993114 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167996205 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721167999277 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168002330 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168005399 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168008442 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168011494 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168014531 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168017594 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168020696 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168023754 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168026830 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168029889 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168032962 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168036044 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168039107 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168042271 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168045323 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168048366 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168051425 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168054482 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168057585 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168060626 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168063692 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168066848 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168069885 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168072971 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168076057 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168079105 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168082158 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168085231 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168088292 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168091356 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168094503 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168097581 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168100666 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168103735 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168106833 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168110053 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168113156 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168116212 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168119269 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168122475 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168125592 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168128681 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168131746 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168134798 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168137878 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168140946 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168144001 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168147055 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168150113 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168153155 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168156379 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168159435 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168162610 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168165657 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168168727 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168171791 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168174897 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168177956 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168181044 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168184136 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168187190 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168190258 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168193353 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168196406 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168199456 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168202566 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168205638 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168208739 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168211789 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168214824 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168217950 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168220983 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168224092 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168227146 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168230225 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168233273 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168236325 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168239442 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168242502 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168245571 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168248643 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168251758 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168254817 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168257888 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168260929 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168263975 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168267078 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168270133 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168273194 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168276251 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168279344 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168282407 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168285485 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168288544 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168291597 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168294682 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168297752 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168300820 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168303887 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168306950 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168310005 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168313055 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168316139 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168319258 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168322337 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168325386 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168328463 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168331511 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168334569 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168337601 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168340641 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168343739 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168347043 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168350108 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168353147 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168356208 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168359262 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168362308 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168365364 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168368540 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168371593 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168374640 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168377687 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168380748 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168383825 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168386892 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168389949 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168393012 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168396082 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168399133 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168402275 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168405347 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168408403 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168411464 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168414781 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168417896 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168420978 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168424093 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168427156 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168430222 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168433328 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168436416 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168439504 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168442556 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168445611 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168448670 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168451723 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168454828 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168457991 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168461113 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168464155 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168467188 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168470234 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168473330 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168476457 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168479619 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168482758 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168485985 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168489049 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168492110 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168495161 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168498207 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168501250 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168504335 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168507377 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168510433 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168513494 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168516562 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168519626 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168522679 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168525752 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168528906 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168531949 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168535016 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168538064 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168541120 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168544157 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168547242 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168550320 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168553427 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168556481 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168559566 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168562632 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168565682 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168568727 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168571814 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168574870 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168577917 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168580971 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168584027 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168587078 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168590120 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168593180 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168596319 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168599371 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168602573 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168605670 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168608711 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168611762 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168614804 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168617869 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168620998 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168624041 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168627089 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168630149 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168633206 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168636275 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168639315 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168643210 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168646306 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168649368 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168652431 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168655483 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168658539 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168661622 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168664714 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168667766 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168670802 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168673928 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168677054 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168680123 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168683161 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168686205 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168689262 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168692309 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168695377 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168698460 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168701666 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168704712 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168707773 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168710849 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168714051 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168717141 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168720195 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168723251 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168726293 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168729347 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168732405 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168735503 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168738600 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168741650 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168744702 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168747809 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168750877 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168753915 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168757017 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-among-thinking.gl.at.ply.gg:1717 => 127.0.0.1:1717 (proto: Udp, port count: 1)
-solution-newbie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721168760082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721188991587 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
